@@ -167,4 +167,4 @@ require (
 	lukechampine.com/blake3 v1.3.0 // indirect
 )
 
-replace github.com/sagernet/sing => /Users/tianhuyang/Desktop/hugo/projects/sing/sing
+replace github.com/sagernet/sing => github.com/tianhuyang/sing v0.8.10-0.20260623102632-e65c5bb2ad35
